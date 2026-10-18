@@ -57,18 +57,17 @@ Sales-Revenue-Analytics/
 └── README.md
 ```
 
-
 ## 🐍 Python Analysis
 
-Python and Pandas were used to explore, clean, and prepare the sales dataset for further analysis.
+Python and Pandas were used in Jupyter Notebook to explore, clean, and prepare the sales dataset for further analysis. The notebook was created and executed using the Jupyter extension in Visual Studio Code.
 
 **Key Activities:**
 
-* Explored the dataset to understand its structure and contents.
-* Cleaned and prepared data for analysis.
-* Performed exploratory data analysis (EDA).
-* Created cleaned and feature-engineered datasets for further analysis.
-* Prepared data to support business reporting and visualization.
+- Explored the dataset to understand its structure and contents.
+- Cleaned and prepared data for analysis.
+- Performed exploratory data analysis (EDA).
+- Created cleaned and feature-engineered datasets for further analysis.
+- Prepared data to support business reporting and visualization.
 
 **Jupyter Notebook:** [`Sales_EDA.ipynb`](Python/Sales_EDA.ipynb)
 
@@ -165,9 +164,19 @@ It showcases practical skills in Python, Pandas, SQL, data preparation, analytic
 4. Download `Power BI/sales_dashboard.pbix` to explore the interactive dashboard in Power BI Desktop.
 5. View the `screenshots/` folder for images of the three dashboard pages.
 
-## 👩‍💻 Author
+## ✅ Conclusion
 
-**Ketki Mahajan**
+This Sales & Revenue Analytics project demonstrates an end-to-end data analytics workflow, combining Python, SQL, and Power BI to explore sales performance, product trends, and profitability.
 
-- [LinkedIn](https://www.linkedin.com/in/ketki-mahajan-3484973b9/)
-- [GitHub](https://github.com/ketki-mahajan)
+Python and Pandas were used in Jupyter Notebook for data cleaning, preparation, and exploratory data analysis (EDA). SQL with MySQL supported structured data querying and business analysis, while Power BI was used to build interactive dashboards for executive reporting, product performance analysis, and profitability analysis.
+
+Through this project, I strengthened my practical skills in data preparation, exploratory data analysis, SQL querying, data visualization, and business intelligence reporting.
+
+**Key takeaway:** Transforming raw sales data into meaningful insights helps businesses better understand performance and make informed, data-driven decisions.
+
+## 👩‍💻 About Me
+
+**Ketki Mahajan**  
+Aspiring Data Analyst | Python | SQL | Power BI
+
+[LinkedIn](https://www.linkedin.com/in/ketki-mahajan-3484973b9/) · [GitHub](https://github.com/ketki-mahajan)
