@@ -80,7 +80,18 @@ Focuses on profitability and profit trends.
 
 ## 🖼️ Dashboard Preview
 
-![Sales & Revenue Analytics Dashboard](screenshots/sales-dashboard.png)
+### 1. Executive Dashboard
+
+![Executive Dashboard](screenshots/Executive%20Dashboard.png)
+
+### 2. Product Performance Analysis
+
+![Product Performance Analysis](screenshots/Product%20Performance%20Analysis.png)
+
+### 3. Profit Analysis
+
+![Profit Analysis](screenshots/Profit%20Analysis.png)
+
 
 ## 🔍 Key Analysis Areas
 
