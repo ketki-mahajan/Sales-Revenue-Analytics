@@ -1,66 +1,89 @@
+
 # 📊 Sales & Revenue Analytics
 
 **Analyzing Business Performance with Python, SQL, and Power BI**
 
 ## 📌 Project Overview
 
-This project focuses on analyzing sales data to understand business performance, revenue trends, product performance, and profitability. It combines Python-based exploratory data analysis, SQL queries, and interactive Power BI dashboards to explore the data and present business insights.
+Sales & Revenue Analytics is an end-to-end data analytics project focused on understanding sales performance, revenue trends, product performance, and profitability.
+
+The project combines Python for data exploration and preparation, SQL for structured data analysis, and Power BI for interactive business dashboards. It demonstrates how raw sales data can be transformed into meaningful insights to support data-driven decision-making.
 
 ## 🎯 Project Objectives
 
-* Analyze sales and revenue performance.
-* Evaluate product and category performance.
-* Examine profit and profitability trends.
-* Clean and prepare data for analysis.
-* Use SQL to query and analyze sales data.
-* Build interactive dashboards to communicate insights.
+- Analyze sales and revenue performance.
+- Identify top-performing products and categories.
+- Evaluate profitability and business performance.
+- Explore sales trends and patterns.
+- Clean and prepare data for analysis.
+- Present insights through interactive Power BI dashboards.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools and Technologies
 
-| Tool             | Purpose                                  |
-| ---------------- | ---------------------------------------- |
-| Python           | Data exploration and analysis            |
-| Pandas           | Data manipulation and preparation        |
-| Jupyter Notebook | Exploratory data analysis                |
-| MySQL            | SQL queries and sales analysis           |
-| Power BI         | Interactive dashboards and visualization |
+| Tool | Purpose |
+|---|---|
+| Python | Data exploration and preparation |
+| Pandas | Data manipulation and cleaning |
+| Jupyter Notebook | Python-based analysis |
+| MySQL | SQL queries and business analysis |
+| Power BI | Interactive dashboards and visualization |
+| CSV | Dataset storage and exchange |
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 Sales-Revenue-Analytics/
+│
 ├── Dataset/
 │   ├── Superstore.csv
 │   ├── Superstore_Cleaned.csv
 │   ├── Superstore_Feature_Engineered.csv
 │   └── Superstore_Final.csv
+│
 ├── Power BI/
 │   └── sales_dashboard.pbix
+│
 ├── Python/
 │   └── Sales_EDA.ipynb
+│
 ├── SQL/
-│   └── sales_analysis.sql
+│   └── sales_analysis_queries.sql
+│
 ├── screenshots/
-│   └── sales-dashboard.png
+│   ├── Executive Dashboard.png
+│   ├── Product Performance Analysis.png
+│   └── Profit Analysis.png
+│
 └── README.md
 ```
 
+
 ## 🐍 Python Analysis
 
-Python and Pandas were used for exploratory data analysis and data preparation.
+Python and Pandas were used to explore, clean, and prepare the sales dataset for further analysis.
 
-Key activities:
+**Key Activities:**
 
-* Exploring the sales dataset.
-* Cleaning and preparing data.
-* Performing exploratory data analysis (EDA).
-* Preparing data for further analysis and visualization.
+* Explored the dataset to understand its structure and contents.
+* Cleaned and prepared data for analysis.
+* Performed exploratory data analysis (EDA).
+* Created cleaned and feature-engineered datasets for further analysis.
+* Prepared data to support business reporting and visualization.
+
+**Jupyter Notebook:** [`Sales_EDA.ipynb`](Python/Sales_EDA.ipynb)
 
 ## 🗄️ SQL Analysis
 
-SQL was used to query and analyze the sales dataset.
+SQL with MySQL was used to query and analyze the sales dataset, supporting a structured investigation of business performance.
 
-The SQL analysis supports the exploration of sales performance, products, and profitability. Refer to the SQL script in the `SQL/` folder for the queries used in the project.
+**Key Activities:**
+
+* Queried sales data using SQL.
+* Analyzed sales and revenue information.
+* Explored product performance and profitability.
+* Used query results to support business analysis.
+
+**SQL Script:** [`sales_analysis_queries.sql`](SQL/sales_analysis_queries.sql)
 
 ## 📈 Power BI Dashboard
 
@@ -117,33 +140,34 @@ The Profit Analysis dashboard focuses on business profitability and profit trend
 
 Together, these three dashboard pages provide a structured view of sales performance, product analysis, and profitability. The report combines interactive Power BI visuals with data analysis performed using Python and SQL to make the project easier to explore and understand.
 
+**Power BI File:** [`sales_dashboard.pbix`](Power%20BI/sales_dashboard.pbix)
 
 ## 🔍 Key Analysis Areas
 
-* Sales and revenue performance
-* Product and category analysis
-* Profitability analysis
-* Data cleaning and feature engineering
-* Exploratory data analysis
-* SQL-based sales analysis
-* Interactive business reporting
-
-## 🚀 How to Explore the Project
-
-1. Download or clone this repository.
-2. Review the original and processed datasets in the `Dataset/` folder.
-3. Open the Python notebook in VS Code with the Jupyter extension or another compatible Jupyter environment.
-4. Open the SQL file in MySQL Workbench and configure the database and table names as required.
-5. Open `sales_dashboard.pbix` in Power BI Desktop.
-6. Explore the three dashboard pages to review the analysis.
+- Sales and revenue performance
+- Product and category analysis
+- Profitability analysis
+- Exploratory data analysis
+- Data cleaning and preparation
+- Business reporting and visualization
 
 ## 💡 Key Takeaway
 
-This project demonstrates how Python, SQL, and Power BI can be combined to prepare, analyze, and visualize sales data for business reporting and data-driven decision-making.
+This project demonstrates an end-to-end analytics workflow, from exploring and preparing raw data to querying it with SQL and presenting business information through Power BI dashboards.
+
+It showcases practical skills in Python, Pandas, SQL, data preparation, analytical thinking, and business intelligence reporting.
+
+## 🚀 How to Explore This Project
+
+1. Open the `Dataset/` folder to access the original and processed datasets.
+2. Open `Python/Sales_EDA.ipynb` to explore the Python analysis.
+3. Open `SQL/sales_analysis_queries.sql` to review the SQL queries.
+4. Download `Power BI/sales_dashboard.pbix` to explore the interactive dashboard in Power BI Desktop.
+5. View the `screenshots/` folder for images of the three dashboard pages.
 
 ## 👩‍💻 Author
 
 **Ketki Mahajan**
-Aspiring Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/ketki-mahajan-3484973b9/) · [GitHub](https://github.com/ketki-mahajan)
+- [LinkedIn](https://www.linkedin.com/in/ketki-mahajan-3484973b9/)
+- [GitHub](https://github.com/ketki-mahajan)
