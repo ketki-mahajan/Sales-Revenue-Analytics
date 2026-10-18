@@ -66,12 +66,12 @@ The project uses the Superstore sales dataset to explore sales transactions, pro
 
 The `Dataset` folder contains the original dataset and processed versions prepared during the analysis workflow.
 
-| File | Description |
+| **File** | **Description** |
 |---|---|
-| `Superstore.csv` | Original sales dataset |
-| `Superstore_Cleaned.csv` | Dataset after cleaning |
-| `Superstore_Feature_Engineered.csv` | Dataset containing engineered features |
-| `Superstore_Final.csv` | Final prepared dataset for further analysis |
+| [ `Superstore.csv` ](Dataset/Superstore.csv) | Original sales dataset |
+| [ `Superstore_Cleaned.csv` ](Dataset/Superstore_Cleaned.csv) | Dataset after cleaning |
+| [ `Superstore_Feature_Engineered.csv` ](Dataset/Superstore_Feature_Engineered.csv) | Dataset containing engineered features |
+| [ `Superstore_Final.csv` ](Dataset/Superstore_Final.csv) | Final prepared dataset for further analysis |
 
 These files represent the stages of data preparation used in the project.
 
@@ -132,8 +132,6 @@ Together, the three dashboard pages provide a structured view of sales performan
 
 [**Download sales_dashboard.pbix**](Power%20BI/sales_dashboard.pbix)
 
-Download the file and open it in Microsoft Power BI Desktop to explore the interactive report.
-
 ## 🐍 Python Analysis
 
 Python and Pandas were used in Jupyter Notebook to explore, clean, and prepare the Superstore sales dataset. The notebook was created and executed using the Jupyter extension in Visual Studio Code.
@@ -171,8 +169,6 @@ Save processed datasets for subsequent analysis and visualization.
 ### 📄 Jupyter Notebook
 
 [**View Sales_EDA.ipynb**](Python/Sales_EDA.ipynb)
-
-Open the notebook on GitHub to review the code and analysis. To execute it, download the notebook and run it in an environment with Python and the required libraries installed.
 
 ## 🗄️ SQL Analysis
 
@@ -222,8 +218,6 @@ The SQL analysis may use the following techniques, depending on the queries impl
 ### 📄 SQL Script
 
 [**View sales_analysis_queries.sql**](SQL/sales_analysis_queries.sql)
-
-Open the SQL file in MySQL Workbench or another compatible SQL editor to review and execute the queries against your prepared database.
 
 ## 🔍 Key Analysis Areas
 
