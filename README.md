@@ -64,33 +64,58 @@ The SQL analysis supports the exploration of sales performance, products, and pr
 
 ## 📈 Power BI Dashboard
 
-The interactive Power BI report contains three pages:
+The Power BI report is designed to provide an interactive view of sales performance, product trends, and profitability. It contains three dedicated dashboard pages, each focusing on a different area of business analysis.
 
-### 1. Executive Dashboard
-
-Provides an overview of sales and business performance.
-
-### 2. Product Performance Analysis
-
-Explores product and category performance.
-
-### 3. Profit Analysis
-
-Focuses on profitability and profit trends.
-
-## 🖼️ Dashboard Preview
+The dashboards help users explore the data visually, compare performance, and understand important business trends.
 
 ### 1. Executive Dashboard
 
 ![Executive Dashboard](screenshots/Executive%20Dashboard.png)
 
+The Executive Dashboard provides a high-level overview of overall sales and business performance. It brings important business metrics and performance indicators together in one place, making it easier to understand the overall results.
+
+**Key Highlights:**
+
+* Overview of sales performance.
+* Summary of important business indicators.
+* Visual representation of business trends.
+* Easy-to-understand reporting for business performance monitoring.
+
+**Purpose:** To provide a quick overview of business performance and help users identify patterns that may require further analysis.
+
 ### 2. Product Performance Analysis
 
 ![Product Performance Analysis](screenshots/Product%20Performance%20Analysis.png)
 
+The Product Performance Analysis dashboard focuses on understanding how different products and categories perform. It helps users explore product-level results and compare performance across the available data.
+
+**Key Highlights:**
+
+* Product and category performance comparisons.
+* Exploration of sales patterns across products.
+* Identification of strong and weaker-performing product areas.
+* Visual analysis to support product performance evaluation.
+
+**Purpose:** To help users understand product performance and identify areas that may benefit from further business investigation.
+
 ### 3. Profit Analysis
 
 ![Profit Analysis](screenshots/Profit%20Analysis.png)
+
+The Profit Analysis dashboard focuses on business profitability and profit trends. It provides a visual way to explore profit-related information and understand how profitability contributes to overall business performance.
+
+**Key Highlights:**
+
+* Analysis of profit performance.
+* Exploration of profit trends.
+* Comparison of profitability across available product or business categories.
+* Visual presentation of profit-related insights.
+
+**Purpose:** To support a better understanding of profitability and help identify areas for further analysis.
+
+### 📌 Dashboard Summary
+
+Together, these three dashboard pages provide a structured view of sales performance, product analysis, and profitability. The report combines interactive Power BI visuals with data analysis performed using Python and SQL to make the project easier to explore and understand.
 
 
 ## 🔍 Key Analysis Areas
